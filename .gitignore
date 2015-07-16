@@ -1,0 +1,77 @@
+.config
+.config/
+.config/*
+
+.ssh
+.ssh/
+.ssh/*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r.
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+*.cache
+*.exe
+*.pdb
+*.resources
+obj/
+obj/*
+obj/Debug/
+obj/Debug/*
+obj/Debug/PromotionalCreationWizard.vbproj.FileListAbsolute.txt
+obj/Debug/PromotionalCreationWizard.xml
+obj/Debug/TempPE/MarketingPromos.designer.vb.dll
+obj/Debug/TempPE/My Project.Resources.Designer.vb.dll
+obj/Debug/TempPE/resources.MarketingPromos.designer.vb.dll
+obj/Release/
+obj/Release/*
+research/~$PromoTypeDescriptions.xlsx
+*.suo
+*.sln
+bin/
+bin/*
+bin/Debug/
+bin/Debug/*
+bin/Debug/CenteredMessagebox.dll
+bin/Debug/FontAwesomeIcons.dll
+bin/Debug/PromotionalCreationWizard.exe.config
+bin/Debug/PromotionalCreationWizard.vshost.exe.config
+bin/Debug/PromotionalCreationWizard.vshost.exe.manifest
+bin/Debug/PromotionalCreationWizard.xml
+bin/Debug/TSWizards.dll
+bin/Release/
+bin/Release/*
